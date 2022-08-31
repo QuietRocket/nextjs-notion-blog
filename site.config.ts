@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: null,
-  // github: 'quietrocket',
-  // linkedin: 'nzandian',
+  // github: '',
+  // linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
